@@ -1,4 +1,4 @@
-# digital_decellularization
+# Digital Decellularization
 GitHub repository for the paper Digital Decellularization: Image Domain Transfer by Neural Networks for Quantitative Histological Analysis of Liver Scaffold.
 
 ## Description
