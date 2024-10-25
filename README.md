@@ -1,10 +1,6 @@
 # Digital Decellularization
 GitHub repository for the paper Digital Decellularization: Image Domain Transfer by Neural Networks for Quantitative Histological Analysis of Liver Scaffold.
 
-## Description
-
-
-
 ## Google Colab notebooks
 You can try several demos:
 * Basic introduction to wsitools module: https://colab.research.google.com/drive/11V3IsbZkQt5UohQfbvA9QjTamn9GjCwa?usp=sharing
@@ -15,3 +11,4 @@ You can try several demos:
 ## Code Repositories
 
 ## Public Dataset
+TBA
