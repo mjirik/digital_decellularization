@@ -9,6 +9,9 @@ You can try several demos:
 * Extraction of extracellular matrix from histological microscopic images of the liver using segmentation and inpainting methods https://colab.research.google.com/drive/1Ss9Z2qciXUauu5FqmUMaaBH8MZtGplRT?usp=sharing
 
 ## Code Repositories
+[wsitools](https://github.com/mjirik/wsitools) - Software for working with Whole Slide Images
+[LiverGAN](https://github.com/VaJavorek/livergan) - GAN methods used in the paper
+[Step by step](https://github.com/janburian/Masters_thesis) - Step by step methods used in the paper
 
 ## Public Dataset
 TBA
