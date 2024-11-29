@@ -17,5 +17,5 @@ You can try several demos:
 
 ## Public Dataset
 
-[Decellularization dataset on Synology](https://LF-NAS-BMC3.quickconnect.to/d/s/115c8RuvCySM5bYC4btF33H3swTpmhUD/SXyC902tBRV_wce6LPxFBqGwJHzUBrHF-Ar7gBLmK2ws)
-[Decellularization dataset on Kaggle](https://www.kaggle.com/datasets/vajavorek/digital-decellularization)
+[Decellularization dataset on Synology](https://LF-NAS-BMC3.quickconnect.to/d/s/115c8RuvCySM5bYC4btF33H3swTpmhUD/SXyC902tBRV_wce6LPxFBqGwJHzUBrHF-Ar7gBLmK2ws)  
+[Decellularization dataset on Kaggle](https://www.kaggle.com/datasets/vajavorek/digital-decellularization)  
